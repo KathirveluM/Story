@@ -1,0 +1,3 @@
+0
+
+If you have created a new Github account and you want to push commits with your new account instead of your previous account then the .gitconfig must be updated, otherwise, you will push with the already owned Github account to the new account.
