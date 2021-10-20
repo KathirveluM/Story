@@ -1,0 +1,7 @@
+Search the certificate gitHub.com.
+
+Remove gitHub.com certificate.
+
+Execute any operation with git in your terminal. this again ask your username and password.
+
+For Windows Users find the key chain by following:
